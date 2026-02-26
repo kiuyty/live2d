@@ -1,0 +1,9 @@
+[
+  {
+    "name": "拉菲",
+    "path": "model/lafei/",
+    "model": "lafei.model3.json",
+    "position": [0, 0],
+    "scale": 0.2
+  }
+]
