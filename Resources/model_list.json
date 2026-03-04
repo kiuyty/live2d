@@ -2,15 +2,14 @@
   {
     "name": "拉菲",
     "path": "model/lafei/",
-    "model": "lafei.model3.json",
-    "position": [0, 0],
-    "scale": 0.2
+    "model": "lafei.model3.json"
   },
   {
-    "name": "拉菲_4",
+    "name": "拉菲_换装",
     "path": "model/lafei_4/",
     "model": "lafei_4.model3.json",
-    "position": [0, 0],
-    "scale": 0.2
+    "textures": [
+      { "path": "model/lafei_4/", "model": "lafei_4.model3.json" }
+    ]
   }
 ]
