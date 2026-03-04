@@ -5,9 +5,7 @@
     "model": "lafei.model3.json",
     "position": [0, 0],
     "scale": 0.2
-  }
-],
-[
+  },
   {
     "name": "拉菲_4",
     "path": "model/lafei_4/",
