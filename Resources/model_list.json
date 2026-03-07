@@ -1,9 +1,10 @@
 {
   "models": [
-    ["model/lafei/lafei.model3.json", "model/lafei_4/lafei_4.model3.json"]
+    ["lafei"],
+    ["lafei_4"]
   ],
   "messages": [
-    ["点击，开启新的一天", "点击，开启新的一天"],
-    ["今天也要加油哦", "今天也要加油哦"]
+    ["拉菲来啦~"],
+    ["换装拉菲~"]
   ]
 }
