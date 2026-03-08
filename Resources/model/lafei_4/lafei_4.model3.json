@@ -4,7 +4,7 @@
   "FileReferences": {
     "Moc": "lafei_4.moc3",
     "Textures": [
-      "textures/texture_00.png"
+      "textures/texture_00.webp"
     ],
     "Physics": "lafei_4.physics3.json",
     "Pose": null,
@@ -100,4 +100,5 @@
       ]
     }
   ]
+
 }
