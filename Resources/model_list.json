@@ -1,7 +1,7 @@
 {
     "models": [
-        ["lafei"],
-        ["lafei_4"]
+        ["lafei_4"],
+        ["lafei"]
     ],
     "messages": [
         ["你好，我是拉菲"],
