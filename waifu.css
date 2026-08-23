@@ -24,7 +24,7 @@
 
 #waifu {
 	bottom: -1000px;
-	left: 0;
+	right: 0;
 	line-height: 0;
 	margin-bottom: -10px;
 	position: fixed;
@@ -51,6 +51,7 @@
 	overflow: hidden;
 	padding: 5px 10px;
 	position: absolute;
+	right: 0;
 	text-overflow: ellipsis;
 	transition: opacity 1s;
 	width: 250px;
